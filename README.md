@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Silvan
-- 👀 I’m interested in software engineerin and (human) languages
+- 👀 I’m interested in software engineering and (human) languages
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on anything meaningful :)
 - 📫 How to reach me silvan.wenk@gmail.com
