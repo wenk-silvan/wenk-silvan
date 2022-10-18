@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wenk-silvan
+- 👋 Hi, I’m Silvan
 - 👀 I’m interested in software engineerin and (human) languages
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on anything meaningful :)
