@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silvan
 - 👀 I’m interested in mountains, software engineering and (human) languages
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently learning security and hacking for Android
 - 💞️ I’m looking to collaborate on anything meaningful :)
 - 📫 How to reach me silvan.wenk@gmail.com
 
